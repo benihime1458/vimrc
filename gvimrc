@@ -1,0 +1,1 @@
+/home/baklavaman/dotfiles/gvimrc
